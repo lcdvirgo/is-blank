@@ -100,7 +100,7 @@ input,
 select,
 textarea {
 	color: #666;
-	font-family: Baskerville, "Playfair Display", "Times New Roman", serif;
+	font-family: LeagueGothicRegular, serif;
 	font-size: 16px;
 	font-size: 1.6rem;
 	font-weight: 300;
@@ -110,7 +110,7 @@ textarea {
 /* Headings */
 h1,h2,h3,h4,h5,h6 {
 	clear: both;
-	font-family: Baskerville, "Playfair Display", "Times New Roman", serif;
+	font-family: LeagueGothicRegular, serif;
 	font-style: italic;
 	margin: 1em 0;
 }
